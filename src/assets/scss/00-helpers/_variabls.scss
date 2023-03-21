@@ -1,0 +1,37 @@
+/*----------------------------------------*/
+/*  01. Helpers CSS
+/*----------------------------------------*/
+
+// Font Family
+$font-family-base: "Roboto", sans-serif;
+$headings-font-family: "Roboto", sans-serif;
+
+// Responsive Variables
+$extraBig-device: "only screen and (min-width: 1550px)";
+$laptop-device: "only screen and (min-width: 1200px) and (max-width: 1549px)";
+$desktop-device: "only screen and (min-width: 992px) and (max-width: 1199px)";
+$tablet-device: "only screen and (min-width: 768px) and (max-width: 991px)";
+$large-mobile: "only screen and (max-width: 767px)";
+$small-mobile: "only screen and (max-width: 575px)";
+$extra-small-mobile: "only screen and (max-width: 479px)";
+
+//===============================
+// Bootstrap Variables Overright
+//===============================
+
+// Color
+$primary: #f8796c;
+$secondary: #6c757d;
+$success: #4caf50;
+$danger: #f44336;
+$warning: #ffc107;
+$info: #17a2b8;
+$light: #f8f9fa;
+$dark: #333333;
+//
+$body-color: #696969;
+$headings-color: #333333;
+//
+$white: #ffffff;
+$black: #000000;
+$grey: #f8f9fd;
